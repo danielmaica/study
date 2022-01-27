@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula 20 - Geolocalizacao</title>
+        <script type="text/javascript" language="javascript">
+            function iniciar()
+            {
+               navigator.geolocation.getCurrentPosition(mostrarPosicao);
+            }
+            function mostrarPosicao(position)
+            {
+                var latlon = position.coords.latitude + "," + position.coords.longitude;
+                var url = "http://maps.google.com/maps?q=" + latlon;
+                window.location = url
+            }
+        </script>
+    </head>
+    <body onload="iniciar()">
+
+    </body>
+</html>

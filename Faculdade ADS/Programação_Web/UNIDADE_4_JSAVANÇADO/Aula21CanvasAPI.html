@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula 21 - CANVAS API</title>
+        <script type="text/javascript" language="javascript">
+            var context;
+
+            function desenhar()
+            {
+                context = document.getElementById("desenho").getContext("2d");
+                desenhaAnimacao();
+            }
+
+            function desenhaAnimacao()
+            {
+                context.clearRect(0,0,960,480);
+                context.translate(30,30);
+                context.rotate(0,1);
+                context.beginPath();
+                context.moveTo(10,0);
+                context.lineTo(20,30);
+                context.lineTo(0,30);
+                context.closePath();
+                context.stroke();
+            }
+        </script>
+    </head>
+    <body onload="desenhar()">
+        <canvas id="desenho" width="960" height="480"></canvas>
+    </body>
+</html>

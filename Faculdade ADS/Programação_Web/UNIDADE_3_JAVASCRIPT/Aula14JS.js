@@ -1,0 +1,1 @@
+document.write("OLA <b>MUNDO<b>!");

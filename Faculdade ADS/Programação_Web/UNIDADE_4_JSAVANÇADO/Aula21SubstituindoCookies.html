@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula 21 - Substituindo os Cookies</title>
+        <script type="text/javascript" language="javascript">
+            function gravar()
+            {
+                sessionStorage.setItem("nome", "Daniel");
+            }
+
+            function ler()
+            {
+                var retorno;
+                retorno = sessionStorage.getItem("nome");
+                alert(retorno);
+            }
+
+        </script>
+    </head>
+    <body>
+        <input type="button" onclick="gravar()" value="Gravar Informacao">
+        <input type="button" onclick="ler()" value="Ler Informacao">
+    </body>
+</html>

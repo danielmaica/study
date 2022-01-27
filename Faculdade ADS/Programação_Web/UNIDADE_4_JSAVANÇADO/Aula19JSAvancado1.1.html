@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Aula 19 - DOM E MANIPULACAO DE ELEMENTOS</title>
+    <script type="text/javascript" language="javascript">
+        function carregarDinamicamente(){
+            var paragrafo = document.createElement("p");
+            var conteudo = document.createTextNode("Este eh um paragrafo");
+
+            paragrafo.appendChild(conteudo);
+
+            document.getElementsByTagName("body")[0].appendChild(paragrafo);
+
+        }
+    </script>
+</head>
+<body onload="carregarDinamicamente()">
+</body>
+</html>

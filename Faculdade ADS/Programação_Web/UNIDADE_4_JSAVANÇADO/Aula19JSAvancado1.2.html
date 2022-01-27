@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Aula 19 - Funcoes anonimas</title>
+    <script type="text/javascript" language="javascript">
+        var obj = (function(){
+            var a, b;
+            a = 10
+            b = 15
+            return a + b;
+
+        })();
+        
+        function executar(){
+            alert(obj);
+
+        }
+    </script>
+</head>
+<body>
+    <input type="button" onclick="executar()">
+
+
+</body>
+</html>

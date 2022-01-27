@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula 20 - Interagindo com o tempo</title>
+        <script type="text/javascript" language="javascript">
+            function iniciar(){
+                setTimeout(function(){
+                    var p = document.getElementById("paragrafo");
+                    p.innerHTML = "Ola mundo...."
+                }, 2000);
+            }
+        </script>
+    </head>
+    <body onload="iniciar()">
+        <p id="paragrafo"></p>
+    </body>
+</html>
