@@ -1,4 +1,4 @@
-# Foco nos estudos!
+# Foco nos estudos! 📚
 
 ### Bem-vindo ao meu repositório de estudos na área de programação!
 
