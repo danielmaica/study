@@ -1,0 +1,41 @@
+@media screen and (max-width:700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    header .i2 {
+        margin-bottom: 8px;
+    }
+
+    header nav a {
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .botao {
+        margin-top: 7px;
+        width: 250px;
+    }
+}
+
+@media screen and (min-width:0px) {
+    .descricao {
+        width: 95%;
+    }
+}
+@media screen and (min-width:600px) {
+    .descricao {
+        width: 88%;
+    }
+}
+@media screen and (min-width:1000px) {
+    .descricao {
+        width: 50%;
+    }
+}
+@media screen and (min-width:1600px) {
+    .descricao {
+        width: 30%;
+    }
+}

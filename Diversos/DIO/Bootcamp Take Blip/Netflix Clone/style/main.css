@@ -1,0 +1,113 @@
+:root {
+    --corprim:#91e509;
+    --corsec:#141414;
+    --psg1:#004170;
+    --psg2:#FFFFFF;
+    --psg3:#DA291C;
+    --psg4:#CEAB5D;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*elementos base*/
+body {
+    background:var(--corsec);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo {
+    height: 75px;
+}
+
+header i {
+    color: rgb(38, 38, 179);
+}
+
+header h1 {
+    font-size: 28px;
+    font-family:fantasy;
+    text-transform: uppercase;
+    color: #aac546;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+header nav a:hover {
+    color:#91e509;
+}
+
+/* destaque */
+.destaque {
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('img/n5.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.destaque .container {
+    margin-top: 15%;
+    margin-left: 3%;
+    margin-bottom: 5%;
+}
+
+.destaque .titulo {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 15px;
+}
+
+.destaque .descricao {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    text-align: justify;
+}
+.botao {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 18px;
+    margin-right: 8px;
+    font-size: 20px;
+    cursor:pointer;
+    border-radius: 5%;
+}
+.botao i {
+    margin-right: 8px;
+}
+
+.botao:hover {
+    background-color: rgb(245, 183, 12);
+    color: rgb(23, 160, 10);
+    transition: 1s ease;
+}
+
+.box-filme {
+    width: 350px;
+    height: 200px;
+}
+
+.carrosel-videos {
+    margin-top: 2px;
+}

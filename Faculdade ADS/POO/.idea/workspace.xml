@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49fd674b-35b8-4c47-892b-f52fd82ac056" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Estudos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 1/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 2/AULA 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA 3/AULA 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividades Autoestudo/Atividades Autoestudo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media5Valores/Media5Valores.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/audax.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/bike1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/bike2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/caloi-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/cannondale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/logordc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/pc1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/pc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/route66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/img/silence.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diversos/DIO/UtilizandoFrameworkBootstrap/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/Aula7ProgramaModular.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/Aula7ProgramaModular.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/atvd1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/atvd1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/atvd2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/atvd2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_2_estrutura-if.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_2_estrutura-if.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_2_if-else-if.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_2_if-else-if.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_3_estrutura-switch-case.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_3_estrutura-switch-case.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_4_estrutura-for.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_4_estrutura-for.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_5_vetores.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_5_vetores.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_6_matrizes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/aula_6_matrizes.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/ferias.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/ferias.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/hello_world.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/hello_world.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/prova6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/teste.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/teste.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algoritmos_de_Programacao_II/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 1 - a historia da internet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 2 - a linguagem html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 3 - fromatação de textos e imagens.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 4 - meta tags e caracteres especiais.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 5 - hyperlinks, ancoras e listas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 6 - tabelas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 7 - formulários.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/aula 8 - elementos de áudio e vídeo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/cr7.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/icon.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/lm10.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/lm10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_1_HTML/video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_2_CSS/aula_10_CSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_2_CSS/aula_11_seletores.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_2_CSS/aula_12_decoracao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_2_CSS/aula_12_espacamento.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_2_CSS/aula_12_unidades_de_medida_css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_2_CSS/aula_13_float.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_2_CSS/aula_13_fluxo_da_pagina.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/Aula14JS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/Aula14JS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/Aula15Variaveis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/Aula17Funcoes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/Aula18CSSJS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/Aula18Eventos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/aula16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_3_JAVASCRIPT/aula17_estruturarep.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula19JSAvancado1.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula19JSAvancado1.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula19JSAvancado1.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula20JSAvancado1.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula20JSAvancado1.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula21CanvasAPI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula21SubstituindoCookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula23Bootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/Aula23jQueryUI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/jquery-ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/jquery-ui-1.13.0/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/UNIDADE_4_JSAVANÇADO/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/graub.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/graub2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programação_Web/graub3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedesDeComputadores/Aula3.pkt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedesDeComputadores/Rede com 5 computadores.pkt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26JPeIZShorxbNQnORYThy1gvFQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49fd674b-35b8-4c47-892b-f52fd82ac056" name="Changes" comment="" />
+      <created>1647138809925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647138809925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
