@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3f560ba-22b5-4800-b86b-f5d49b9dd458" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/out/production/untitled104/oo/aula1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/src/oo/aula1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 1/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/AULA 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 2/src/exemplo2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/AULA 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/out/production/AULA 3/oo/aula3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AULA 3/src/oo/aula3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/Atividade Avaliativa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/out/production/Atividade Avaliativa/atividade/atvAvaliativa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividade Avaliativa/src/atividade/atvAvaliativa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/Atividades Autoestudo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/out/production/Atividades Autoestudo/atividade1/atv1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades Autoestudo/src/atividade1/atv1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/Media5Valores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/out/production/Media5Valores/media/Media.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media5Valores/src/media/Media.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="272ICoBSF0gD0wn32H8jwO47jPg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Exemplo1">
+    <configuration name="Exemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplo1" />
+      <module name="U2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo1." type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplo1." />
+      <module name="U2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Exemplo2.Exemplo2" />
+      <module name="U2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Exemplo1." />
+      <item itemvalue="Application.Exemplo1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exemplo1" />
+        <item itemvalue="Application.Exemplo1." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3f560ba-22b5-4800-b86b-f5d49b9dd458" name="Changes" comment="" />
+      <created>1648511629036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648511629036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
