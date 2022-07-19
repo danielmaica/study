@@ -16,21 +16,21 @@ public class Avaliacao {
 						System.out.println("Digite o quarto valor: ");
 						v4 = teclado.nextFloat();
 						resultado = ((v1 / v2) - v3) * v4; 
-						System.out.println("O resultado da operaÁ„o È: " + resultado);
+						System.out.println("O resultado da opera√ß√£o √©: " + resultado);
 					} catch (Exception erro) {
-						System.out.println("O quarto valor È inv·lido, tente novamente.");
+						System.out.println("O quarto valor √© inv√°lido, tente novamente.");
 						teclado.next().charAt(0);
 					}
 				} catch (Exception erro) {
-					System.out.println("O terceiro valor È inv·lido, tente novamente.");
+					System.out.println("O terceiro valor √© inv√°lido, tente novamente.");
 					teclado.next().charAt(0);
 				}
 			} catch (Exception erro) {
-				System.out.println("O segundo valor È inv·lido, tente novamente.");
+				System.out.println("O segundo valor √© inv√°lido, tente novamente.");
 				teclado.next().charAt(0);
 			}
 		} catch (Exception erro) {
-			System.out.println("O primeiro valor È inv·lido, tente novamente.");
+			System.out.println("O primeiro valor √© inv√°lido, tente novamente.");
 			teclado.next().charAt(0);
 		}
 	}
