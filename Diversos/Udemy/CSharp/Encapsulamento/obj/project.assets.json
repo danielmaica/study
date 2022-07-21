@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Estudos\\Diversos\\Udemy\\C#\\Encapsulamento\\Encapsulamento.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Estudos\\Diversos\\Udemy\\CSharp\\Encapsulamento\\Encapsulamento.csproj",
       "projectName": "Encapsulamento",
-      "projectPath": "C:\\Users\\danie\\Estudos\\Diversos\\Udemy\\C#\\Encapsulamento\\Encapsulamento.csproj",
+      "projectPath": "C:\\Users\\danie\\Estudos\\Diversos\\Udemy\\CSharp\\Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Estudos\\Diversos\\Udemy\\C#\\Encapsulamento\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Estudos\\Diversos\\Udemy\\CSharp\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
