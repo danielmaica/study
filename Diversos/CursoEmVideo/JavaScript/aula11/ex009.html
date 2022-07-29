@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nacionalidade</title>
+</head>
+<body>
+  <h1>Identificador de Nacionalidade</h1>
+  País em que nasceu: <input type="text" name="txtn" id="txtn">
+  <input type="button" value="Verificar" onclick="brXGringo()">
+  <div id="res">
+
+  </div>
+  <script>
+    function brXGringo() {
+      var pais = window.document.querySelector('input#txtn')
+      var res = window.document.querySelector('div#res')
+      res.innerHTML = `<p>Seu país de nascimento é: <strong>${pais.value}</strong></p>`
+      if (pais != 'Brasil') {
+        res.innerHTML += `<p>Você é Estrangeiro!</p>`;
+      } else {
+        res.innerHTML = `<p>Você é Brasileiro!</p>`;
+      }
+    }
+  </script>
+</body>
+</html>
