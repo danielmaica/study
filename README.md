@@ -2,4 +2,13 @@
 
 ### Bem-vindo ao meu repositório de estudos na área de programação!
 
-Sou iniciante na área de programação, minha meta atual é começar a dominar HTML, JS e CSS para poder dar o pontapé inicial na minha carreira, todas as dicas e críticas são bem-vindas!!!
+Atualmente estou estudando as tecnologias:
+- HTML
+- CSS
+- JavaScript
+- C#
+- MongoDB
+
+Em busca de conhecimentos focados na área de Desenvolvimento Full Stack.
+Todas as dicas e críticas são bem-vindas, fique a vontade para utilizar
+os projetos deste repositório, bons estudos!
