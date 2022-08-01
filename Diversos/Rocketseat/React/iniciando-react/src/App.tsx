@@ -12,7 +12,7 @@ function App() {
   ]);
 
   function createTweet() {
-    setTweets([...tweets, 'Tweet 5'])
+    setTweets([...tweets, "Tweet 5"]);
   }
 
   return (
