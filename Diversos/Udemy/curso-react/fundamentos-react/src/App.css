@@ -1,0 +1,9 @@
+.App .Cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.TitleApp {
+  text-shadow: 5px 5px 10px black;
+}

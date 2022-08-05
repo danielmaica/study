@@ -13,7 +13,7 @@ const getRandom = (props) => {
         Valor Maximo: <strong>{max}</strong>
       </p>
       <p>
-        Valor Escolhido: <strong>{aleatorio}</strong>
+        Valor Gerado: <strong>{aleatorio}</strong>
       </p>
     </div>
   );
