@@ -1,0 +1,49 @@
+.task-container {
+  background-color: #444;
+  margin: 8px 0;
+  padding: 15px 20px;
+  display: flex;
+  border-radius: 5px;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+  transition: all 0.5s ease;
+}
+
+.task-container:hover {
+  color:#00ACE4;
+}
+
+.task-title {
+  cursor: pointer;
+}
+
+.buttons-container {
+  width: 30%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.task-container button {
+  margin-right: 5px;
+}
+
+.remove-task-button, 
+.see-task-details-button {
+  background-color: #80227b;
+  border: 2px solid #80227b;
+  border-radius: 50%;
+  padding: 3px 3px 0px 3px;
+  font-size: 18px;
+  color: #00ACE4;
+  cursor: pointer;
+  margin: 0 5px;
+}
+
+.remove-task-button:hover, 
+.see-task-details-button:hover {
+  transition: all 0.5s ease;
+  border: 2px solid #80227b;
+  background-color: #00abe4c0;
+  color: #80227b;
+}
