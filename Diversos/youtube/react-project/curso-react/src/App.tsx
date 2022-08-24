@@ -1,17 +1,16 @@
 // dependências - módulos
-import { ThemeProvider } from "@emotion/react";
 import { BrowserRouter } from "react-router-dom";
 
 // componentes
 import { AppRoutes } from "./routes/AppRoutes";
-import { LightTheme } from "./shared/themes";
+import { AppThemeProvider } from "./shared/contexts";
 
 export const App = () => {
   return (
-    <ThemeProvider theme={LightTheme}>
+    <AppThemeProvider>
       <BrowserRouter>
         <AppRoutes />
       </BrowserRouter>
-    </ThemeProvider>
+    </AppThemeProvider>
   );
-}
+};
