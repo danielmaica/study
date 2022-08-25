@@ -4,7 +4,7 @@ import DarkModeIcon from '@mui/icons-material/DarkMode';
 import LightModeIcon from '@mui/icons-material/LightMode';
 
 import { useAppThemeContext } from '../../contexts';
-import { DarkTheme } from '../../themes';
+import { DarkTheme, LightTheme } from '../../themes';
 import { useMemo } from 'react';
 
 interface IMenuLateral {
@@ -15,11 +15,15 @@ export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
   
   const theme = useTheme();
   const { toggleTheme } = useAppThemeContext();
-  const toggleIconTheme = useMemo(() => {
+  const iconLightTheme = useMemo(() => {
+    if (theme === LightTheme) {     
+      return (<LightModeIcon/>);    
+    }  
+  }, [theme]);
+  const iconDarkTheme = useMemo(() => {
     if (theme === DarkTheme) {     
       return (<DarkModeIcon/>);    
-    }
-    return (<LightModeIcon/>);  
+    }  
   }, [theme]);
 
   return (
@@ -27,8 +31,9 @@ export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
       <Drawer variant="permanent">
         <Box width={theme.spacing(28)} height="100%" display="flex" flexDirection="column">
           <Box width="100%" display="flex" alignItems="center" justifyContent="center">
+            {iconLightTheme}       
             <Switch onChange={toggleTheme} checked={theme === DarkTheme}/> 
-            {toggleIconTheme}       
+            {iconDarkTheme}       
           </Box>
           <Box width="100%" height={theme.spacing(20)} display="flex" alignItems="center" justifyContent="center">
             <Avatar
