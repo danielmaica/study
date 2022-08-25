@@ -12,19 +12,17 @@ interface IMenuLateral {
   children: React.ReactNode;
 }
 
+
+
 export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
   // alternar temas e ícones do switch
   const theme = useTheme();
   const { toggleTheme } = useAppThemeContext();
-  const lightThemeIcon = useMemo(() => {
+  const themeIcon = useMemo(() => {
     if (theme === LightTheme) {     
       return (<LightModeIcon/>);    
     }  
-  }, [theme]);
-  const darkThemeIcon = useMemo(() => {
-    if (theme === DarkTheme) {     
-      return (<DarkModeIcon/>);    
-    }  
+    return (<DarkModeIcon/>);    
   }, [theme]);
 
   // responsividade
@@ -35,21 +33,12 @@ export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
     <>
       {/* menu lateral */}
       <Drawer open={isDrawerOpen} variant={smDown ? 'temporary' : 'permanent'} onClose={toggleDrawerOpen} >
-        <Box 
-          width={theme.spacing(28)} 
-          height="100%" 
-          display="flex" 
-          flexDirection="column" 
-          style={{
-            color: theme === DarkTheme ? '#00ACE4' : '#80227B',
-            fontSize: '20px',
-          }} 
-        >
+        <Box width={theme.spacing(28)} height="100%" display="flex" flexDirection="column" style={{ color: theme === DarkTheme ? '#00ACE4' : '#80227B' }} >
           {/* componente de alternar tema */}
           <Box width="100%" display="flex" alignItems="center" justifyContent="center">
-            {lightThemeIcon}       
+            { theme === LightTheme ? themeIcon : false }       
             <Switch onChange={toggleTheme} checked={theme === DarkTheme}/> 
-            {darkThemeIcon}       
+            { theme === DarkTheme ? themeIcon : false }       
           </Box>
 
           {/* avatar */}
