@@ -9,7 +9,7 @@ import LightModeIcon from '@mui/icons-material/LightMode';
 // components
 import { DarkTheme, LightTheme } from '../../themes';
 import AvatarImg from '../../img/avatar.png';
-import { useAppThemeContext, useDrawerContext } from '../../contexts';
+import { useAppThemeContext, useDrawerContext } from '../../contexts/';
 
 // interfaces
 import { IMenuLateral, IListItemLink } from '../../interfaces';

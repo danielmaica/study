@@ -11,3 +11,6 @@ export * from './IAppThemeProviderProps';
 // menu lateral
 export * from './IMenuLateral';
 export * from './IListItemLink';
+
+// paginas
+export * from './ILayoutBaseDePaginaProps';

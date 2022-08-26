@@ -4,10 +4,10 @@ import { Routes, Route, Navigate } from 'react-router-dom';
 
 // components
 import { useDrawerContext } from '../shared/contexts';
-import { PaginaInicial, Anotacoes, Login } from '../shared/components/';
+import { PaginaInicial, Anotacoes, Login } from '../../src/pages';
 
 export const AppRoutes = () => {
-  const { /*toggleDrawerOpen ,*/ setDrawerOptions } = useDrawerContext();
+  const { setDrawerOptions } = useDrawerContext();
 
   // opções de menus
   useEffect(() => {
