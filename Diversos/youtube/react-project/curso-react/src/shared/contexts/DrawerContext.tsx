@@ -13,7 +13,6 @@ export const DrawerProvider: React.FC<IDrawerProviderProps> = ({ children }) => 
   
   // estado das options do menu
   const [drawerOptions, setDrawerOptions] = useState<IDrawerOption[]>([]);
-
   
   const toggleDrawerOpen = useCallback(() => {
     setIsDrawerOpen(oldDrawerOpen => !oldDrawerOpen);

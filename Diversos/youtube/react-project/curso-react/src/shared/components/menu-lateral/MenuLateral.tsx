@@ -97,17 +97,6 @@ export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
                   style={{ color: 'undefined'}}
                 />
               ))}
-
-              
-              
-              {/* botão sair */}
-              <ListItemLink
-                icon="logout"
-                to="/login"
-                label="Sair"
-                onClick={ smDown ? toggleDrawerOpen : undefined }
-                style={{ color: 'undefined'}}
-              />
             </List>
           </Box>
           
