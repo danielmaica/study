@@ -1,3 +1,4 @@
+// modulos externos
 import { createContext, useCallback, useContext, useMemo, useState } from 'react';
 import { ThemeProvider } from '@mui/material';
 import { Box } from '@mui/system';
@@ -5,14 +6,8 @@ import { Box } from '@mui/system';
 // temas
 import { DarkTheme, LightTheme } from './../themes';
 
-interface IThemeContextData {
-  themeName: 'light' | 'dark';
-  toggleTheme: () => void;
-}
-
-interface IAppThemeProviderProps {
-  children: React.ReactNode
-}
+// interfaces
+import { IThemeContextData, IAppThemeProviderProps } from '../interfaces';
 
 const ThemeContext = createContext({} as IThemeContextData);
 

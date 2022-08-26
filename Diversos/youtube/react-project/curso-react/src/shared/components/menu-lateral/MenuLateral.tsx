@@ -1,20 +1,50 @@
+// modulos externos
 import { useMemo } from 'react';
+import { useMatch, useNavigate, useResolvedPath } from 'react-router-dom';
 import { Avatar, Divider, Drawer, Icon, List, ListItemButton, ListItemIcon, ListItemText, Switch, useMediaQuery, useTheme } from '@mui/material';
 import { Box } from '@mui/system';
 import DarkModeIcon from '@mui/icons-material/DarkMode';
 import LightModeIcon from '@mui/icons-material/LightMode';
 
-import { useAppThemeContext, useDrawerContext } from '../../contexts';
+// components
 import { DarkTheme, LightTheme } from '../../themes';
 import AvatarImg from '../../img/avatar.png';
+import { useAppThemeContext, useDrawerContext } from '../../contexts';
 
-interface IMenuLateral {
-  children: React.ReactNode;
-}
+// interfaces
+import { IMenuLateral, IListItemLink } from '../../interfaces';
 
+// Lista de opções do menu
+const ListItemLink: React.FC<IListItemLink> = ({ to, icon, label, onClick}) => {
+  //tema do button
+  const theme = useTheme();
 
+  //navegação
+  const navigate = useNavigate();
+  const handleClick = () => {
+    navigate(to);
+    onClick?.();
+  };
 
+  // exibir item ativo do menu
+  const resolvedPath = useResolvedPath(to);
+  const match = useMatch({ path: resolvedPath.pathname, end: false});
+
+  return (
+    <ListItemButton selected={!!match} onClick={handleClick}> 
+      <ListItemIcon>
+        <Icon style={{ color: theme === DarkTheme ? '#00ACE4' : '#80227B' }}>
+          {icon}
+        </Icon>
+      </ListItemIcon>
+      <ListItemText primary={label} />
+    </ListItemButton>
+  );
+};
+
+// MENU LATERAL
 export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
+  
   // alternar temas e ícones do switch
   const theme = useTheme();
   const { toggleTheme } = useAppThemeContext();
@@ -27,13 +57,13 @@ export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
 
   // responsividade
   const smDown = useMediaQuery(theme.breakpoints.down('sm'));
-  const { isDrawerOpen, toggleDrawerOpen } = useDrawerContext();
+  const { isDrawerOpen, toggleDrawerOpen, drawerOptions } = useDrawerContext();
 
   return (
     <>
       {/* menu lateral */}
-      <Drawer open={isDrawerOpen} variant={smDown ? 'temporary' : 'permanent'} onClose={toggleDrawerOpen} >
-        <Box width={theme.spacing(28)} height="100%" display="flex" flexDirection="column" style={{ color: theme === DarkTheme ? '#00ACE4' : '#80227B' }} >
+      <Drawer open={isDrawerOpen} variant={smDown ? 'temporary' : 'permanent'} onClose={toggleDrawerOpen}>
+        <Box width={theme.spacing(28)} height="100%" display="flex" flexDirection="column" style={{ color: theme === DarkTheme ? '#00ACE4' : '#80227B' }}>
           {/* componente de alternar tema */}
           <Box width="100%" display="flex" alignItems="center" justifyContent="center">
             { theme === LightTheme ? themeIcon : false }       
@@ -57,24 +87,27 @@ export const MenuLateral: React.FC<IMenuLateral> = ({ children }) => {
             <List component="nav">
 
               {/* botão página inicial */}
-              <ListItemButton>
-                <ListItemIcon>
-                  <Icon style={{color: theme === DarkTheme ? '#00ACE4' : '#80227B'}}>
-                    home
-                  </Icon>
-                </ListItemIcon>
-                <ListItemText primary="Página inicial" />
-              </ListItemButton>
+              {drawerOptions.map(drawerOption => (
+                <ListItemLink
+                  to={drawerOption.path}
+                  key={drawerOption.path}
+                  icon={drawerOption.icon}
+                  label={drawerOption.label}
+                  onClick={ smDown ? toggleDrawerOpen : undefined }
+                  style={{ color: 'undefined'}}
+                />
+              ))}
+
+              
               
               {/* botão sair */}
-              <ListItemButton>
-                <ListItemIcon>
-                  <Icon style={{color: theme === DarkTheme ? '#00ACE4' : '#80227B'}}>
-                    logout
-                  </Icon>
-                </ListItemIcon>
-                <ListItemText primary="Sair" />
-              </ListItemButton>
+              <ListItemLink
+                icon="logout"
+                to="/login"
+                label="Sair"
+                onClick={ smDown ? toggleDrawerOpen : undefined }
+                style={{ color: 'undefined'}}
+              />
             </List>
           </Box>
           
