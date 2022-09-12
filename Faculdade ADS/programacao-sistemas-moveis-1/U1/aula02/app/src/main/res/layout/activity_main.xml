@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -10,18 +9,22 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Nome"/>
+        android:text="@string/label_digite_seu_nome"
+        android:textColor="@color/cor_label_digite_seu_nome"/>
     <EditText
         android:id="@+id/caixa_texto_nome"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        tools:ignore="LabelFor,TextFields"
+        android:importantForAutofill="no" />
     <Button
         android:id="@+id/botao"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Diga Olá"/>
+        android:text="@string/label_diga_ola"/>
     <TextView
         android:id="@+id/mensagem"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:textColor="@color/cor_label_resposta"/>
 </LinearLayout>

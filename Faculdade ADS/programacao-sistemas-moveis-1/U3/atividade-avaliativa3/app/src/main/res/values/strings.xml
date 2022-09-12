@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nota Final Alunos</string>
+    <string name="txtGrauA">Grau A:</string>
+    <string name="txtGrauB">Grau B:</string>
+    <string name="txtGrauC">Grau C:</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="resultado">Resultado:</string>
+</resources>

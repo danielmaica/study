@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora Área do Triangulo</string>
+    <string name="txtValorBase">Base:</string>
+    <string name="edtValorBase">Digite o valor da base do triângulo</string>
+    <string name="txtValorAltura">Altura:</string>
+    <string name="edtValorAltura">Digite o valor da altura do triângulo</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="resultado">Resultado:</string>
+</resources>

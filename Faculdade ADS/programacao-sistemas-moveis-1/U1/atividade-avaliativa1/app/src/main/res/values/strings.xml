@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor de Temperatura</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="btn_converter_celcius_fahrenheit">Celcius para Fahrenheit</string>
+    <string name="btn_converter_fahrenheit_celcius">Fahrenheit para Celcius</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="resposta">Resposta:</string>
+</resources>

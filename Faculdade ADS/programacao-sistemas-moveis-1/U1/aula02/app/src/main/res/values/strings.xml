@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Olá Android</string>
+    <string name="label_digite_seu_nome">Digite seu nome</string>
+    <string name="label_diga_ola"> Diga olá</string>
 </resources>
