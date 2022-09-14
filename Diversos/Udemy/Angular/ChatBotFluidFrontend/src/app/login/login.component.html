@@ -1,8 +1,16 @@
-<!-- <img src="../../assets/FluidLogo.png" alt="logo fluid"> -->
-<h1>{{titulo}}</h1>
-E-mail: <input type="email" id="email" name="email" placeholder="Digite seu e-mail">
-<br>
-Senha: <input type="password" id="senha" name="senha" placeholder="Digite sua senha">
-<hr>
-<button (click)="entrar()">Entrar</button>
-<button [disabled]="desabilitar">Esqueci a senha</button>
+<div class="p-grid p-justify-center">
+  <div class="p-col-10 p-sm-6 p-md-4">
+    <div class="p-col-12">
+      <h1>{{titulo}}</h1>
+    </div>
+    <div class="p-col-12">
+      E-mail: <input type="email" id="email" name="email" placeholder="Digite seu e-mail">   
+    </div>
+    <div class="p-col-12">
+      Senha: <input type="password" id="senha" name="senha" placeholder="Digite sua senha">
+    </div>
+    <div class="p-col-12">
+      <button (click)="entrar()">Entrar</button>
+    </div>
+  </div>
+</div>

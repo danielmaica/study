@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class LoginComponent implements OnInit {
 
   public titulo: string = "Bem-vindo, faça seu login!"
-  public desabilitar: boolean = true;
+
   public entrar() {
     console.log("Logado!");
   }
