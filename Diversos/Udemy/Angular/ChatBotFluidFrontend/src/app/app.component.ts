@@ -7,7 +7,6 @@ import { Component, OnInit } from '@angular/core';
     <router-outlet></router-outlet>
   `
 })
-
 export class AppComponent implements OnInit{
 
   constructor() { }

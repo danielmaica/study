@@ -1,10 +1,8 @@
 <!-- <img src="../../assets/FluidLogo.png" alt="logo fluid"> -->
-<h1>{{ title }}</h1>
+<h1>{{titulo}}</h1>
 E-mail: <input type="email" id="email" name="email" placeholder="Digite seu e-mail">
 <br>
-<br>
 Senha: <input type="password" id="senha" name="senha" placeholder="Digite sua senha">
-<br>
-<br>
-<button>Entrar</button>
-<button>Esqueci a senha</button>
+<hr>
+<button (click)="entrar()">Entrar</button>
+<button [disabled]="desabilitar">Esqueci a senha</button>
