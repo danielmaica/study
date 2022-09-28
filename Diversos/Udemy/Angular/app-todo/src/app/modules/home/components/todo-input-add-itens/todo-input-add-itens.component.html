@@ -1,1 +1,4 @@
-<p>todo-input-add-itens works!</p>
+<input type="text" placeholder="Digite sua nova Task aqui..." [(ngModel)]="addItem" (keyup.enter)="submitItem()" mat-icon="add">
+<button *ngIf="addItem.length" mat-mini-fab (click)="submitItem()">
+  <mat-icon>add</mat-icon>
+</button>
