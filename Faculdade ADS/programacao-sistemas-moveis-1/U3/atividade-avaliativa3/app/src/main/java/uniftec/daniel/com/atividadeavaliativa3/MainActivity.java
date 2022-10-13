@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void calcular() {
         float grauA = Float.parseFloat(edtGrauA.getText().toString());
-        float grauB = Float.parseFloat(edtGrauB.getText().toString());
+        float grauB = Float.parseFloat(edtGrauB.getTng());ext().toStri
         float grauC = Float.parseFloat(edtGrauC.getText().toString());
         float media1 = (grauA + grauB) / 2;
         float media2 = (grauA + grauB + grauC) / 3;
